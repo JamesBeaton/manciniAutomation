@@ -2,6 +2,13 @@
     <string name="app_name">JbProject1</string>
     <string name="hello">Hello!</string>
     <string name="submit_label">Submit</string>
+    <string name="studioInfo">Recording Studios Based in London UK</string>
+    <string name="email">Email us at CliqueUK@hotmail.com</string>
+    <string name="services">Vocal Comping + Mixing/Editing + Pitch Correction</string>
+    <string name="logo">Clique studio logo</string>
+    <string name="studioBkg">background image</string>
+
+
     <!--++++++++++++++++++++++++++-->
     <!--added on API 16 (JB - 4.1)-->
     <!--++++++++++++++++++++++++++-->
