@@ -56,7 +56,7 @@ public class MainActivity extends AppCompatActivity {
 
 
     /**
-     * Displays the given score for Team A.
+     * Displays the given score for Boston Celtics.
      */
     public void displayForBoston(int score) {
         TextView scoreView = (TextView) findViewById(R.id.team_a_score1);
@@ -64,7 +64,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     /**
-     * Displays the given score for Team A.
+     * Displays the given score for Chicago Bulls.
      */
     public void displayForBulls(int score) {
         TextView scoreView = (TextView) findViewById(R.id.team_a_score2);
