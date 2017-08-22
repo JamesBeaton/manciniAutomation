@@ -21,10 +21,10 @@
 
 
             <ImageView
-                android:contentDescription="boston celtics logo"
                 android:layout_width="wrap_content"
                 android:layout_height="100dp"
                 android:layout_gravity="center"
+                android:contentDescription="@string/celtics_logo"
                 android:src="@drawable/boston" />
 
 
@@ -81,10 +81,10 @@
 
 
             <ImageView
-                android:contentDescription="Chicago bulls logo"
                 android:layout_width="wrap_content"
                 android:layout_height="100dp"
                 android:layout_gravity="center"
+                android:contentDescription="@string/bulls_logo"
                 android:src="@drawable/bulls" />
 
             <TextView

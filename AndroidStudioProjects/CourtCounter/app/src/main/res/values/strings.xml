@@ -5,4 +5,6 @@
     <string name="two_points">"+2 Points"</string>
     <string name="free_shot">"Free Throw"</string>
     <string name="reset_button">"Reset"</string>
+    <string name="celtics_logo">"Boston celtics logo"</string>
+    <string name="bulls_logo">"Chicago bulls logo"</string>
 </resources>
