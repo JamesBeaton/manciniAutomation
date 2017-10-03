@@ -1,0 +1,56 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="run-configuration-type">
+      <project id="PracticeSet2" values="AndroidRunConfigurationType" collectionTime="1503415081314" />
+      <project id="BirthdayCard" values="AndroidRunConfigurationType" collectionTime="1503414219819" />
+      <project id="JustJava" values="AndroidRunConfigurationType" collectionTime="1503414183184" />
+    </group>
+    <group name="module type">
+      <project id="PracticeSet2" values="JAVA_MODULE" collectionTime="1503415081314" />
+      <project id="BirthdayCard" values="JAVA_MODULE" collectionTime="1503414219819" />
+      <project id="JustJava" values="JAVA_MODULE" collectionTime="1503414183183" />
+    </group>
+    <group name="run-configuration-type-temp">
+      <project id="BirthdayCard" values="GradleRunConfiguration" collectionTime="1503414219819" />
+    </group>
+    <group name="file-type">
+      <project id="PracticeSet2" values="IDEA_MODULE,ARCHIVE,JAVA,Properties,PLAIN_TEXT,ProGuard File,Groovy,XML,Images,UNKNOWN" collectionTime="1503415081357" />
+      <project id="BirthdayCard" values="Properties,UNKNOWN,Images,PLAIN_TEXT,JAVA,ProGuard File,XML,Groovy,IDEA_MODULE,ARCHIVE" collectionTime="1503414219859" />
+      <project id="JustJava" values="PLAIN_TEXT,ProGuard File,ARCHIVE,IDEA_MODULE,Images,Properties,JAVA,Groovy,XML,UNKNOWN" collectionTime="1503414183264" />
+    </group>
+    <group name="images.ide.background">
+      <project id="PracticeSet2" values="frame=0,editor=0" collectionTime="1503415081358" />
+      <project id="BirthdayCard" values="editor=0,frame=0" collectionTime="1503414219859" />
+      <project id="JustJava" values="frame=0,editor=0" collectionTime="1503414183278" />
+    </group>
+    <group name="Git">
+      <project id="PracticeSet2" values="config.save.policy.STASH,config.push.update.all.roots.enabled,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,config.force.push.enabled" collectionTime="1503415081360" />
+      <project id="BirthdayCard" values="config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.warn.about.crlf.enabled,config.force.push.enabled,config.warn.about.detached.enabled,config.save.policy.STASH,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED" collectionTime="1503414219860" />
+      <project id="JustJava" values="config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.force.push.enabled" collectionTime="1503414183290" />
+    </group>
+    <group name="frameworks">
+      <project id="PracticeSet2" values="java-gradle,android-gradle,android" collectionTime="1503415081314" />
+      <project id="BirthdayCard" values="java-gradle,android-gradle,android" collectionTime="1503414219819" />
+      <project id="JustJava" values="java-gradle,android,android-gradle" collectionTime="1503414183182" />
+    </group>
+    <group name="language-level">
+      <project id="PracticeSet2" values="JDK_1_7,JDK_1_8" collectionTime="1503415081360" />
+      <project id="BirthdayCard" values="JDK_1_7,JDK_1_8" collectionTime="1503414219860" />
+      <project id="JustJava" values="JDK_1_8,JDK_1_7" collectionTime="1503414183285" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="diff.DirDiffTableModel" count="1" />
+      <entry feature="diff.DirDiffViewer" count="1" />
+      <entry feature="execute.AndroidRunConfigurationType.Debug" count="4" />
+      <entry feature="execute.AndroidRunConfigurationType.Run" count="191" />
+      <entry feature="execute.GradleRunConfiguration.Run" count="7" />
+      <entry feature="ide.settings.Auto_Import" count="1" />
+      <entry feature="ideaapp.started" count="5" />
+      <entry feature="terminal.mac" count="4" />
+      <entry feature="tips.of.the.day.next" count="2" />
+      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="2" />
+    </counts>
+  </component>
+</application>
